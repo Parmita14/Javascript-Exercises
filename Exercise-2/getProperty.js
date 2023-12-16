@@ -3,6 +3,6 @@ function getpropertyValues(arr,propName){
     return values;
 }
 const people = [
-    {name : "pranay",age:20,gender : "male"},
+    {name : "Parmita",age:20,gender : "female"},
     
 ];
